@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$db = "id17925018_threadlane";
-$password = "q2aQPRw~b[^FDRyS";
-$username = "id17925018_root";
+$db = "majorp";
+$password = "";
+$username = "root";
 
 
 // Create connection
